@@ -1,0 +1,29 @@
+_repo: Sui-yuan-shi-hua_52206
+_version: 0.0.1
+alternative_title: Sui yuan shi hua
+creator:
+  author:
+    agent_name: Yuan, Mei
+    aliases:
+    - Suiyuanlaoren
+    - 袁枚
+    birthdate: 1716
+    deathdate: 1798
+    gutenberg_agent_id: '31179'
+    url: http://www.gutenberg.org/2009/agents/31179
+    wikipedia: http://en.wikipedia.org/wiki/Yuan_Mei
+description: ''
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52206'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- History and criticism'
+- GITenberg
+title: 隨園詩話
+url: http://www.gutenberg.org/ebooks/52206
